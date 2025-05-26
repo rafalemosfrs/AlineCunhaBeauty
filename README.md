@@ -28,8 +28,8 @@ Desenvolvida com **React**, **Tailwind CSS** e **JavaScript**.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/rafalemosfrs/AlineCunhaBeauty.git
+   cd AlineCunhaBeauty
 
 2. Instale as dependências:
    ```bash
